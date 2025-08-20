@@ -14,3 +14,6 @@ npx icon-set-creator create assets/logo.png
 
 - on /android/app/build.gradle, change applicationId to "com.example"
   npx react-native-rename "YourAppName"
+
+# Demo
+![Animation](assets/react_native.gif)
